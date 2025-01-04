@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+aoc2024.egg-info/PKG-INFO
+aoc2024.egg-info/SOURCES.txt
+aoc2024.egg-info/dependency_links.txt
+aoc2024.egg-info/top_level.txt
